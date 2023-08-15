@@ -1,3 +1,4 @@
+#replacing words with a in a text file
 file1 = open("myfile.txt")
 file2 = open("myfilenew.txt","w")
 for line in file1:
