@@ -15,3 +15,5 @@ These are some of the most common prograams asked in high school
 11.) Prime and composite number
 12.) random module
 13.) rotating a list
+14.) Fibonacci Sequence generator 
+15.) Summation upto n
